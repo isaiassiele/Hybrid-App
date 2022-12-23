@@ -1,0 +1,10 @@
+const welcome = 'Welcome';
+const assignmentHome = "Home Screen";
+const welcomeHomeMsg = "Welocme";
+const clickCamera = "Click here to capture image from camera";
+const camera = 'Camera';
+const gallery = "Gallery";
+const clickGallery = "Click here to pick image from gallery";
+const vibrateFor100Ms = 'Vibrate for 1000ms';
+const vibrateWithPattern = 'Vibrate with pattern';
+const vibration = 'Vibration';
